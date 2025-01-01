@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/benbouanane-abdelhakim-8a41242a8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="benbouanane-abdelhakim-8a41242a8" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/benbouanane-abdelhakim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="benbouanane-abdelhakim" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/23922693/benbouanane-abdelhakim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="benbouanane-abdelhakim" height="30" width="40" /></a>
 <a href="https://fb.com/abdelhakim benbouanane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdelhakim benbouanane" height="30" width="40" /></a>
 <a href="https://instagram.com/7akim.benbou3nane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="7akim.benbou3nane" height="30" width="40" /></a>
 </p>
