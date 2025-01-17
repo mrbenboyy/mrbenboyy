@@ -17,8 +17,5 @@
 ![mrbenboyy's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mrbenboyy&theme=gotham&hide_border=true)<br/>
 ![mrbenboyy's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrbenboyy&theme=gotham&show_icons=true&hide_border=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mrbenboyy&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
