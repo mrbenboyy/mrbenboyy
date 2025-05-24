@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdelhakim BENBOUANANE</h1>
 <h3 align="center">A passionate web fullstack developer from Morocco</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrbenboyy&label=Profile%20views&color=0e75b6&style=flat" alt="mrbenboyy" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mrbenboyy&label=Profile%20views&color=0e75b6&style=flat" alt="mrbenboyy" /> </p>
 
 # 💫 About Me:
 📔​I'm currently learning cloud☁️​ and docker🐳​
