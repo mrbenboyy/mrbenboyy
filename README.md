@@ -17,5 +17,9 @@
 ![mrbenboyy's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mrbenboyy&theme=radical&hide_border=true)<br/>
 ![mrbenboyy's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrbenboyy&theme=radical&show_icons=true&hide_border=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+
+<h3 align="center">✍️ Random Dev Quote</h3>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical" alt="Random Dev Quote" />
+</p>
+
